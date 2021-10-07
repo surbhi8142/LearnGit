@@ -2,4 +2,10 @@ hkjkjkjkjkjkjkj
 xsxsxsxsxsxsxsxsxsx
 ghhhjhhhhi 
 how r u?
+<<<<<<< HEAD
 my name is surbhi
+=======
+my name is surbhi.
+what abt you
+hows saivi sanvi
+>>>>>>> origin
